@@ -3,6 +3,6 @@ provider "example" {
 }
 
 module "{{cookiecutter.module_name}}" {
-  source "../../"
+  source = "../../"
   example = "example"
 }

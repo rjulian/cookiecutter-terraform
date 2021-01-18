@@ -3,5 +3,5 @@
 ######
 resource "example" "this" {
   count = var.example ? 1 : 0
-  example_property = val.example
+  example_property = var.example
 }
