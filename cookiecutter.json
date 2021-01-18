@@ -1,0 +1,5 @@
+{
+  "module_name": "TFModule",
+  "module_description": "Terraform module to launch resources for something.",
+  "required_terraform_version": ">= 0.12.21"
+}
